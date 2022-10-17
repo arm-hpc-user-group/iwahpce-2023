@@ -33,9 +33,9 @@ All papers must be original and not simultaneously submitted to another journal 
 All submissions will be peer-reviewed by the PC members. Papers will be accepted to presentations in a workshop.
 
 ### Important dates
-- Abstract and Paper submission due: ~~November 25, 2022~~ 
-- Paper notification: ~~December 2022~~
-- Final camera-ready paper submission due: ~~December 2022 (TBD)~~
+- Abstract and Paper submission due: November 25, 2022 
+- Paper notification: December 2022 (TBD)
+- Final camera-ready paper submission due: December 2022 (TBD)
 
 ### Submission site
 Submissions via EasyChair [IWAHPCE-2023](https://easychair.org/cfp/IWAHPCE2023).
