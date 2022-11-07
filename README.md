@@ -58,3 +58,8 @@ Program Committee
   
 ## Questions
 All questions about submissions should be emailed to iwahpce2023oc@ml.riken.jp
+
+## HPC Asia 2023 (HPCA23) & SupercomputingAsia 2023 (SCA23) together in Singapore!
+The International Conference on High Performance Computing in the Asia-Pacific Region (HPC Asia) is an international conference series for the Asia Pacific region on HPC technologies that fosters exchange of ideas, research results and case studies related to all issues of HPC. For the first time ever, HPC Asia 2023 will be co-located with the SupercomputingAsia 2023 (SCA23) conference in Singapore, from 27 February - 2 March 2023.
+
+The SCA event is a major supercomputing conference in Asia, co-organised by supercomputing centres of the region including those in Australia, Japan, Singapore and Thailand and anchored by the National Supercomputing Centre (NSCC) Singapore. It incorporates a number of important supercomputing and allied events that together aim to promote a vibrant and shared high-performance computing (HPC) ecosystem, for both the public and private sectors, in Asia. For more information about the co-located HPCA23 and SCA23 conference, please visit www.sc-asia.org.
