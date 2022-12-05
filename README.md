@@ -34,8 +34,8 @@ All submissions will be peer-reviewed by the PC members. Papers will be accepted
 
 ### Important dates
 - Abstract and Paper submission due: ~~November 25~~ December 19 2022
-- Paper notification:  (TBD)
-- Final camera-ready paper submission due: ~~December 2022 (TBD)~~ January 13th 2022
+- Paper notification:  January 6th 2023
+- Final camera-ready paper submission due: ~~December 2022 (TBD)~~ January 13th 2023
 
 ### Submission site
 Submissions via EasyChair [IWAHPCE-2023](https://easychair.org/cfp/IWAHPCE2023).
