@@ -30,7 +30,9 @@ All papers must be original and not simultaneously submitted to another journal 
 - Short papers Manuscripts must be at most 10 pages in PDF format including figures and references
 - The paper format is described in the “Paper Submission” section of HPCAsia2023"
 
-All submissions will be peer-reviewed by the PC members. Papers will be accepted to presentations in a workshop.
+Please note that the paper format for the submission (one-column) is different from the one of the camera ready (2-column). Fore more detail, please refer https://www.acm.org/publications/authors/submissions 
+
+All submissions will be peer-reviewed by the PC members. Papers will be accepted to presentations in a workshop. The review process is double-blind. 
 
 ### Important dates
 - Abstract and Paper submission due: ~~November 25~~ December 19 2022
