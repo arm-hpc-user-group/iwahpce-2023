@@ -51,7 +51,6 @@ Program Committee
   - Jens Domke, RIKEN R-CCS
   - Adrian Jackson, The University of Edinburgh
   - Aaron Jezghani, Georgia Tech
-  - Tetsuya Hosino, The University of Tokyo
   - Yuetsu Kodama, RIKEN R-CCS
   - Fedli Luca, CEA
   - Miquel Moreto UPC-BSC
