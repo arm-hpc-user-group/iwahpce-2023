@@ -11,6 +11,32 @@ This workshop is a proceedings-based workshop that is closely related to the ser
 
 In this workshop, we invite papers on the practice and experience of the Arm-based high-performance computing systems, if available, optimization and performance analysis of high-performance workloads for this new generation of Arm-based processors. We welcome performance optimization studies either through access to real hardware or via simulation/emulation frameworks.
 
+
+### Workshop Program
+
+08:30-08:35 : Opening remarks by Miwako Tsuji and Mitsuhisa Sato
+
+08:35-09:08 : Keynote talk "Experiences from 4 years of running a production Arm-based supercomputer" by Simon McIntosh-Smith
+
+09:08-09:38 : "Performance Study on CPU based Machine Learning with PyTorch" by Smeet Chheda, Anthony Curtis, Eva Siegmann and Barbara Chapman
+
+09:38-10:08 : "Application Experiences on a GPU-Accelerated Arm-based HPC Testbed" by Wael Elwasif, William Godoy, Nick Hagerty, J. Austin Harris, Oscar Hernandez, Joo Balint, Kent Paul, Damien Lebrun-Grandie, Elijah MacCarthy, Veronica Melesse Vergara, Bronson Messer, Ross Miller, Sarp Oral, Sergei Bastrakov, Michael Bussmann, Alexander Debus, Klaus Steiniger, Jan Stephan, Rene Widera, Spencer Bryngelson, Henry Le Berre, Anand Radhakrishnan, Jeffrey Young, Sunita Chandrasekaran, Florina Ciorba, Osman Simsek, Kate Clark, Filippo Spiga, Jeff Hammond, Stone John, David Hardy, Sebastian Keller, Jean-Guillaume Piccinali and Christian Trott
+
+10:08-10:30 : "Optimization of NumPy Transcendental Functions for Arm SVE" by Fuyuka Yamada, Kentaro Kawakami, Kouji Kurihara, Kazuhito Matsuda and Tsuguchika Tabaru
+
+10:30-11:00 : BREAK
+
+11:00-11:22 : "Wilson matrix kernel for lattice QCD on A64FX architecture" by Issaku Kanamori, Keigo Nitadori and Hideo Matsufuru
+
+11:22-11:44 : "Evaluating DAOS Storage on ARM64 Clients" by Michael Hennecke, Motohiko Matsuda and Masahiro Nakao
+
+11:44-12:06 : "OpenACC Execution Models for Manycore Processor with ARM" by Mitsuhisa Sato and Miwako Tsuji
+
+12:06-12:28 : "Are we ready for broader adoption of ARM in the HPC community: Performance and Energy Efficiency Analysis of Benchmarks and Applications Executed on High-End ARM Systems" by Nikolay A. Simakov, Robert L. Deleon, Joseph P. White, Matthew D. Jones, Thomas R. Furlani, Eva Siegmann and Robert J. Harrison
+
+12:28-12:30 ▸ Closing Remarks
+
+
 ### Topics
 In particular, this workshop will focus on the following topics of interest:
 
