@@ -14,6 +14,8 @@ In this workshop, we invite papers on the practice and experience of the Arm-bas
 
 ### Workshop Program
 
+Feb 27th
+
 08:30-08:35 : Opening remarks by Miwako Tsuji and Mitsuhisa Sato
 
 08:35-09:08 : Keynote talk "Experiences from 4 years of running a production Arm-based supercomputer" by Simon McIntosh-Smith
