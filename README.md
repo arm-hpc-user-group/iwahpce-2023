@@ -30,7 +30,7 @@ Feb 27th
 
 11:00-11:22 : "Wilson matrix kernel for lattice QCD on A64FX architecture" by Issaku Kanamori, Keigo Nitadori and Hideo Matsufuru
 
-11:22-11:44 : "Evaluating DAOS Storage on ARM64 Clients" by Michael Hennecke, Motohiko Matsuda and Masahiro Nakao
+11:22-11:44 : "Evaluating DAOS Storage on ARM64 Clients" by Michael Hennecke, Motohiko Matsuda and Masahiro Nakao [[Slide]](Hennecke.pdf)
 
 11:44-12:06 : "OpenACC Execution Models for Manycore Processor with ARM" by Mitsuhisa Sato and Miwako Tsuji
 
