@@ -22,13 +22,13 @@ Feb 27th
 
 09:08-09:38 : "Performance Study on CPU based Machine Learning with PyTorch" by Smeet Chheda, Anthony Curtis, Eva Siegmann and Barbara Chapman
 
-09:38-10:08 : "Application Experiences on a GPU-Accelerated Arm-based HPC Testbed" by Wael Elwasif, William Godoy, Nick Hagerty, J. Austin Harris, Oscar Hernandez, Joo Balint, Kent Paul, Damien Lebrun-Grandie, Elijah MacCarthy, Veronica Melesse Vergara, Bronson Messer, Ross Miller, Sarp Oral, Sergei Bastrakov, Michael Bussmann, Alexander Debus, Klaus Steiniger, Jan Stephan, Rene Widera, Spencer Bryngelson, Henry Le Berre, Anand Radhakrishnan, Jeffrey Young, Sunita Chandrasekaran, Florina Ciorba, Osman Simsek, Kate Clark, Filippo Spiga, Jeff Hammond, Stone John, David Hardy, Sebastian Keller, Jean-Guillaume Piccinali and Christian Trott
+09:38-10:08 : "Application Experiences on a GPU-Accelerated Arm-based HPC Testbed" by Wael Elwasif, William Godoy, Nick Hagerty, J. Austin Harris, Oscar Hernandez, Joo Balint, Kent Paul, Damien Lebrun-Grandie, Elijah MacCarthy, Veronica Melesse Vergara, Bronson Messer, Ross Miller, Sarp Oral, Sergei Bastrakov, Michael Bussmann, Alexander Debus, Klaus Steiniger, Jan Stephan, Rene Widera, Spencer Bryngelson, Henry Le Berre, Anand Radhakrishnan, Jeffrey Young, Sunita Chandrasekaran, Florina Ciorba, Osman Simsek, Kate Clark, Filippo Spiga, Jeff Hammond, Stone John, David Hardy, Sebastian Keller, Jean-Guillaume Piccinali and Christian Trott [[Slide]](Wael.pdf)
 
 10:08-10:30 : "Optimization of NumPy Transcendental Functions for Arm SVE" by Fuyuka Yamada, Kentaro Kawakami, Kouji Kurihara, Kazuhito Matsuda and Tsuguchika Tabaru
 
 10:30-11:00 : BREAK
 
-11:00-11:22 : "Wilson matrix kernel for lattice QCD on A64FX architecture" by Issaku Kanamori, Keigo Nitadori and Hideo Matsufuru
+11:00-11:22 : "Wilson matrix kernel for lattice QCD on A64FX architecture" by Issaku Kanamori, Keigo Nitadori and Hideo Matsufuru [[Slide]](Kanamori.pdf)
 
 11:22-11:44 : "Evaluating DAOS Storage on ARM64 Clients" by Michael Hennecke, Motohiko Matsuda and Masahiro Nakao [[Slide]](Hennecke.pdf)
 
