@@ -20,7 +20,7 @@ Feb 27th
 
 08:35-09:08 : Keynote talk "Experiences from 4 years of running a production Arm-based supercomputer" by Simon McIntosh-Smith [[Slide]](McIntosh-Smith.pdf)
 
-09:08-09:38 : "Performance Study on CPU based Machine Learning with PyTorch" by Smeet Chheda, Anthony Curtis, Eva Siegmann and Barbara Chapman
+09:08-09:38 : "Performance Study on CPU based Machine Learning with PyTorch" by Smeet Chheda, Anthony Curtis, Eva Siegmann and Barbara Chapman [[Slide]](Chheda.pptx)
 
 09:38-10:08 : "Application Experiences on a GPU-Accelerated Arm-based HPC Testbed" by Wael Elwasif, William Godoy, Nick Hagerty, J. Austin Harris, Oscar Hernandez, Joo Balint, Kent Paul, Damien Lebrun-Grandie, Elijah MacCarthy, Veronica Melesse Vergara, Bronson Messer, Ross Miller, Sarp Oral, Sergei Bastrakov, Michael Bussmann, Alexander Debus, Klaus Steiniger, Jan Stephan, Rene Widera, Spencer Bryngelson, Henry Le Berre, Anand Radhakrishnan, Jeffrey Young, Sunita Chandrasekaran, Florina Ciorba, Osman Simsek, Kate Clark, Filippo Spiga, Jeff Hammond, Stone John, David Hardy, Sebastian Keller, Jean-Guillaume Piccinali and Christian Trott [[Slide]](Wael.pdf)
 
