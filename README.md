@@ -24,7 +24,7 @@ Feb 27th
 
 09:38-10:08 : "Application Experiences on a GPU-Accelerated Arm-based HPC Testbed" by Wael Elwasif, William Godoy, Nick Hagerty, J. Austin Harris, Oscar Hernandez, Joo Balint, Kent Paul, Damien Lebrun-Grandie, Elijah MacCarthy, Veronica Melesse Vergara, Bronson Messer, Ross Miller, Sarp Oral, Sergei Bastrakov, Michael Bussmann, Alexander Debus, Klaus Steiniger, Jan Stephan, Rene Widera, Spencer Bryngelson, Henry Le Berre, Anand Radhakrishnan, Jeffrey Young, Sunita Chandrasekaran, Florina Ciorba, Osman Simsek, Kate Clark, Filippo Spiga, Jeff Hammond, Stone John, David Hardy, Sebastian Keller, Jean-Guillaume Piccinali and Christian Trott [[Slide]](Wael.pdf)
 
-10:08-10:30 : "Optimization of NumPy Transcendental Functions for Arm SVE" by Fuyuka Yamada, Kentaro Kawakami, Kouji Kurihara, Kazuhito Matsuda and Tsuguchika Tabaru
+10:08-10:30 : "Optimization of NumPy Transcendental Functions for Arm SVE" by Fuyuka Yamada, Kentaro Kawakami, Kouji Kurihara, Kazuhito Matsuda and Tsuguchika Tabaru  [[Slide]](Yamada.pdf)
 
 10:30-11:00 : BREAK
 
@@ -32,7 +32,7 @@ Feb 27th
 
 11:22-11:44 : "Evaluating DAOS Storage on ARM64 Clients" by Michael Hennecke, Motohiko Matsuda and Masahiro Nakao [[Slide]](Hennecke.pdf)
 
-11:44-12:06 : "OpenACC Execution Models for Manycore Processor with ARM" by Mitsuhisa Sato and Miwako Tsuji
+11:44-12:06 : "OpenACC Execution Models for Manycore Processor with ARM" by Mitsuhisa Sato and Miwako Tsuji  [[Slide]](Sato.pdf)
 
 12:06-12:28 : "Are we ready for broader adoption of ARM in the HPC community: Performance and Energy Efficiency Analysis of Benchmarks and Applications Executed on High-End ARM Systems" by Nikolay A. Simakov, Robert L. Deleon, Joseph P. White, Matthew D. Jones, Thomas R. Furlani, Eva Siegmann and Robert J. Harrison
 
